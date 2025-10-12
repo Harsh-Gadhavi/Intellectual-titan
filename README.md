@@ -12,9 +12,3 @@ Next.js: A popular React framework for building server-rendered and static websi
 create-next-app: A tool for quickly setting up new Next.js projects.
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/intellectual-titan
-Install dependencies: npm install
-Run the development server: npm run dev
-Contributing:
-
-We welcome contributions from intellectual titans everywhere! Feel free to submit pull requests or issues.
